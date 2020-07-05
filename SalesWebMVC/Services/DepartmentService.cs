@@ -4,7 +4,7 @@ using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
 using SalesWebMVC.Models;
 
-namespace SalesWebMvc.Services
+namespace SalesWebMVC.Services
 {
     public class DepartmentService
     {
